@@ -1,13 +1,5 @@
 ﻿using System;
 
-using System.Data.Entity;
-
-class DbConection : DbContext
-{
-    public DbConection() : base(@"Data Source=(local)\MYINSTANCE;Initial Catalog=MyTestDB;Integrated Security=True") { }
-    public DbSet<Inscription> Inscription { get; set; } 
-} 
-
 class MainClass
 
 {
@@ -17,7 +9,7 @@ class MainClass
         {
             var txt = new Inscription
             {
-                inscription = Convert.ToString(Console.ReadLine())
+                Text = Convert.ToString(Console.ReadLine())
             };
             var dbConection = new DbConection();
             dbConection.Inscription.Add(txt);
