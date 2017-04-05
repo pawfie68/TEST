@@ -6,7 +6,7 @@ class DbConection : DbContext
 {
     public DbConection() : base(@"Data Source=(local)\MYINSTANCE;Initial Catalog=MyTestDB;Integrated Security=True") { }
     public DbSet<Inscription> Inscription { get; set; } 
-}
+} 
 
 class MainClass
 
