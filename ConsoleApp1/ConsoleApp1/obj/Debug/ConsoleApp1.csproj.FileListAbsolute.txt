@@ -8,3 +8,13 @@ C:\Users\Paweł\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bi
 C:\Users\Paweł\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Paweł\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Paweł\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Repos\TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
